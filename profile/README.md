@@ -1,38 +1,21 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AI-Analytics-org/.github/main/profile/logo.png" width="80" alt="" />
-</p>
+<p align="center"><img src="https://morvs.ai/logo-192.png" width="72" alt="MORVS mark" /></p>
 
-<h1 align="center">AI Analytics</h1>
+<h1 align="center">MORVS</h1>
 
-<p align="center">
-  Intelligence infrastructure for the open internet.
-</p>
+<p align="center">Private intelligence infrastructure.</p>
 
-<p align="center">
-  <a href="https://aianalytics.io">aianalytics.io</a>&ensp;·&ensp;<a href="https://voidly.ai">voidly.ai</a>&ensp;·&ensp;<a href="mailto:info@ai-analytics.org">contact</a>
-</p>
+<p align="center"><a href="https://morvs.ai/">morvs.ai</a> · <a href="https://morvs.ai/writing/">Writing</a> · <a href="https://morvs.ai/contact/">Contact</a></p>
 
----
+MORVS is the public research and systems brand operated by **AI Analytics LLC**. Work previously published as AI Analytics now has its canonical public home at [morvs.ai](https://morvs.ai/).
 
-Independent operators building tools for censorship research, open-source intelligence, and digital forensics. Self-directed projects. Open data where possible.
+### Systems and research
 
-### Projects
+- [Voidly and censorship research](https://morvs.ai/voidly/)
+- [Federal Regulatory Data Hub](https://morvs.ai/regulatory/)
+- [Swarm SDK research](https://morvs.ai/swarm/)
+- [Nexcom publishing relationship](https://morvs.ai/nexcom/)
+- [Technical writing](https://morvs.ai/writing/)
 
-**[Voidly.ai](https://voidly.ai)** — The Global Censorship Index. 11.7M live samples across 119 countries. ML-powered detection, 7-day shutdown forecasting, 5,300+ verified incidents. CC BY 4.0 open data.
+The regulatory API continues to operate at [api.ai-analytics.org](https://api.ai-analytics.org/) for client compatibility. The current public catalog and citations are at [morvs.ai/regulatory](https://morvs.ai/regulatory/). Check each dataset's source and rights statement before reuse; there is no portfolio-wide license.
 
-**Swarm SDK** — Post-quantum encrypted communications for autonomous systems. Python SDK with mesh routing and forward secrecy.
-
-**Footprint Vault** — OSINT digital footprint analysis across 100+ platforms. Privacy audit and threat intelligence.
-
-**OSINT Pipeline** — Real-time social media monitoring and NLP-powered sentiment analysis.
-
-**Election Monitoring** — Automated anomaly detection for election cycles.
-
-### Open Data
-
-| | |
-|---|---|
-| REST API | [voidly.ai/api-docs](https://voidly.ai/api-docs) |
-| MCP Server | `npx @voidly/mcp-server` |
-| HuggingFace | [global-censorship-index](https://huggingface.co/datasets/emperor-mew/global-censorship-index) · [historical archive](https://huggingface.co/datasets/emperor-mew/ooni-censorship-historical) |
-| License | CC BY 4.0 |
+For machine discovery, see [llms.txt](https://morvs.ai/llms.txt) and the [sitemap](https://morvs.ai/sitemap.xml). For corrections, see [our policy](https://morvs.ai/governance/corrections/).
