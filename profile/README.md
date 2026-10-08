@@ -8,6 +8,8 @@
 
 MORVS is the public research and systems brand operated by **AI Analytics LLC**. Work previously published as AI Analytics now has its canonical public home at [morvs.ai](https://morvs.ai/).
 
+MORVS was founded and is led by [Dillon Parkes](https://morvs.ai/dillon-parkes/), who also founded [Voidly](https://voidly.ai/) and co-founded [Nexcom](https://nexcommedia.org/).
+
 ### Systems and research
 
 - [Voidly and censorship research](https://morvs.ai/voidly/)
